@@ -1,0 +1,1799 @@
+@media (max-width: 1400px) {}
+
+@media (max-width: 1366px) {
+
+    .tour-packages-section .tour-packages-slider .prev-arrow {
+        left: 43%;
+    }
+
+    .other-packages-section .other-packages-slider .prev-arrow {
+        left: 43%;
+    }
+
+    .destinations-section .destinations-section-left{
+        padding-right: 5px;
+    }
+    .destinations-section .destinations-section-right .destinations-section-packages .packages-list-1 {
+        display: flex;
+        flex-direction: column;
+        gap: 17px;
+    }
+    .destinations-section .destinations-section-right .destinations-section-packages .packages-list-2 {
+        display: flex;
+        flex-direction: column;
+        gap: 18px;
+    }
+    .destinations-section .destinations-section-right .destinations-section-packages .packages-list-3 {
+        display: flex;
+        flex-direction: column;
+        gap: 17px;
+    }
+    .packages-from-cities .packages-from-cities-slider .prev-arrow {
+        left: 43%;
+    }
+
+    .blog-section .blog-slider .prev-arrow {
+        left: 39.8%;
+    }
+    .faq-section {
+        padding: 0px 0px 151px 0px;
+    }
+
+    .more-section .heading-3 h6 {
+        width: 54%;
+    }
+
+    .packages-by-interest-section .package-tab {
+        gap: 20px;
+    }
+
+    .packages-by-interest-section .dham-content-padding .packages img {
+        width: 100%;
+    }
+
+    .packages-by-interest-section .dham-content-padding .packages .slides-content {
+        width: 100%;
+    }
+    .other-packages-section .other-packages-slider .packages img {
+        width: 100%;
+    }    
+    .other-packages-section .other-packages-slider .packages .slides-content {
+        width: 100%;
+    }
+    footer .global-pateners {
+        padding: 32px 0 39px;
+        display: flex;
+    }
+    footer .logo-footer {
+        width: 246px;
+    }
+    footer .copy-right-section {
+        display: flex;
+    }
+    footer .global-pateners-left {
+        width: 100%;
+        padding-left: 30px;
+    }
+    footer {
+        background: #394048;
+        padding: 40px 0 20px 0;
+    }
+    .other-packages-section .other-packages-slider .packages .slides-content {  
+        padding: 50px 18px 16px 20px;
+    }
+    .mn-1 {
+        height: 200px;
+    }
+    .mn-2 {
+        height: 310px;
+    }
+    .mn-3 {
+        height: 250px;
+    }
+    .mn-4 {
+        height: 153px;
+    }
+    .er-1 {
+        height: 221px;
+    }    
+    .er-2 {
+        height: 221px;
+    }
+    .er-3 {
+        height: 244px;
+    }
+    .er-4 {
+        height: 250px;
+    }
+    .er-7 {
+        height: 252px;
+    }
+    .er-8 {
+        height: 252px;
+    }
+    .er-9 {
+        height: 265px;
+    }
+    .er-10 {
+        height: 265px;
+    }
+    .er-11 {
+        height: 231px;
+    }
+    .er-12 {
+        height: 270px;
+    }
+    .er-13 {
+        height: 270px;
+    }
+    .er-14 {
+        height: 245px;
+    }
+    .er-15 {
+        height: 270px;
+    }
+    .er-16 {
+        height: 270px;
+    }
+    .er-17 {
+        height: 255px;
+    }
+    .er-18 {
+        height: 255px;
+    }
+    .er-19 {
+        height: 263px;
+    }
+    .er-20 {
+        height: 263px;
+    }
+    .er-21 {
+        height: 243px;
+    }
+    .er-22 {
+        height: 227px;
+    }
+    .er-23 {
+        height: 227px;
+    }
+    .er-24 {
+        height: 246px;
+    }
+    .er-25 {
+        height: 246px;
+    }
+    .er-26 {
+        height: 247px;
+    }
+    .er-27 {
+        height: 247px;
+    }
+    .er-29 {
+        height: 268px;
+    }
+    .er-30 {
+        height: 268px;
+    }
+    .er-31 {
+        height: 225px;
+    }
+    .er-32 {
+        height: 155px;
+    }
+    .er-33 {
+        height: 155px;
+    }
+    .er-34 {
+        height: 155px;
+    }
+    .er-35 {
+        height: 155px;
+    }
+    .er-37 {
+        height: 150px;
+    }    
+    .er-38 {
+        height: 150px;
+    }
+    
+}
+
+@media (max-width: 1265px) {}
+
+@media (max-width: 1199.98px) {
+    .tour-packages-section .tour-packages-slider .package-name {
+        padding: 10px 0px 0px 0px;
+    }
+
+    .tour-packages-section .tour-packages-slider .package-name h3 {
+        font-size: 18px;
+        line-height: 25px;
+        margin: 0;
+    }
+
+    .other-packages-section .other-packages-slider .package-name h3 a {
+        font-size: 18px;
+        line-height: 24px;
+        margin: 0;
+    }
+
+    .other-packages-section .other-packages-slider .package-name {
+        padding: 14px 0px 0px 0px;
+    }
+
+    .other-packages-section .other-packages-slider .prev-arrow {
+        left: 42%;
+    }
+
+    .packages-by-interest-section .dham-content-padding .package-name h3 {
+        font-size: 18px;
+        margin: 0;
+    }
+
+    .packages-by-interest-section .dham-content-padding .package-name {
+        padding: 15px 0px 0px 0px;
+    }
+
+    .faq-section .row .faq-section-right {
+        width: 100%;
+        margin-left: 0px;
+        margin-top: 25px;
+    }
+
+    .faq-section {
+        padding: 5px 0px 70px 0px;
+    }
+
+    .choose-section .experienced-section {
+        display: grid;
+        gap: 25px;
+        grid-template-columns: auto auto;
+    }
+
+    .tour-packages-section .tour-packages-slider .next-arrow {
+        left: 49.7%;
+    }
+
+    .destinations-section .destinations-section-right .packages figure figcaption .packages-location span {
+        font-size: 12px;
+    }
+
+    .destinations-section .destinations-section-right .destinations-section-packages .packages-list-1 {
+        gap: 20px;
+    }
+
+    .packages-from-cities .packages-from-cities-slider .prev-arrow {
+        left: 42%;
+    }
+
+    .blog-section .blog-news {
+        padding: 44px 38px 0px 0px;
+    }
+
+    .tour-packages-section .tour-packages-slider .prev-arrow {
+        left: 39%;
+    }
+
+    .other-packages-section .other-packages-slider .prev-arrow {
+        left: 39%;
+    }
+
+    .destinations-section .destinations-section-right .destinations-section-packages {
+        gap: 15px;
+    }
+
+    .destinations-section .destinations-section-left{
+        padding-right: 12.9px;
+    }
+
+    .destinations-section .destinations-section-right .destinations-section-packages .packages-list-1 {
+        gap: 17px;
+    }
+
+    .destinations-section .destinations-section-right .destinations-section-packages .packages-list-2 {
+        gap: 17px;
+    }
+
+    .destinations-section .destinations-section-right .destinations-section-packages .packages-list-3 {
+        gap: 17px;
+    }
+
+    .packages-from-cities .packages-from-cities-slider .prev-arrow {
+        left: 40%;
+    }
+
+    .blog-section .blog-content .blog-information .blog-peragraph p {
+        font-size: 13px;
+    }
+
+    .blog-section .blog-content .blog-haeding a h6 {
+        font-size: 17px;
+        line-height: 30px;
+    }
+
+    .blog-section .blog-news {
+        padding: 29px 29px 0px 0px;
+    }
+
+    .blog-section .blog-news p {
+        font-size: 15px;
+        line-height: 26px;
+    }
+
+    .review .customer-review {
+        flex-direction: column;
+        gap: 77px;
+    }
+
+    .review-section {
+        width: calc(100% - 0px);
+    }
+
+    .more-section .heading-3 h6 {
+        width: 70%;
+    }
+
+    .more-section .container-custom {
+        width: 700px;
+    }
+    footer .global-pateners{
+        display: flex;
+        padding-bottom: 18px;
+    }
+    footer .copy-right-section {
+        display: flex;
+    }
+    footer {
+        background: #394048;
+        padding: 40px 0 12px 0;
+    }
+    footer .global-pateners-left {
+        width: 100%;
+        padding-left: 0px;
+    }    
+    footer .visa-img{
+        width: 100%;
+        padding-right: 0px;
+    }
+    footer .global-pateners-left ul{
+        padding-left: 0px;
+    }
+    footer .logo-footer {
+        width: 32%;
+    }
+    .addres-footer{
+        width: 100%;
+    }
+    .mn-1 {
+        height: 220px;
+    }
+    .mn-2 {
+        height: 209px;
+    }
+    .er-1 {
+        height: 260px;
+    }
+    .er-2 {
+        height: 260px;
+    }
+    .er-3 {
+        height: 248px;
+    }
+    .er-4 {
+        height: 248px;
+    }
+    .er-5 {
+        height: 235px;
+    }
+    .er-6 {
+        height: 235px;
+    }
+    .er-7 {
+        height: 231px;
+    }
+    .er-8 {
+        height: 231px;
+    }
+    .er-9 {
+        height: 246px;
+    }
+    .er-10 {
+        height: 246px;
+    }
+    .er-12 {
+        height: 270px;
+    }
+    .er-13 {
+        height: 270px;
+    }
+    .er-15 {
+        height: 240px;
+    }
+    .er-16 {
+        height: 240px;
+    }
+    .er-17 {
+        height: 245px;
+    }
+    .er-18 {
+        height: 245px;
+    }
+    .er-19 {
+        height: 240px;
+    }
+    .er-20 {
+        height: 240px;
+    }
+    .er-21 {
+        height: 245px;
+    }
+    .er-22 {
+        height: 237px;
+    }
+    .er-23 {
+        height: 237px;
+    }
+    .er-24 {
+        height: 266px;
+    }
+    .er-25 {
+        height: 266px;
+    }
+    .er-29 {
+        height: 240px;
+    }
+    .er-30 {
+        height: 240px;
+    }
+    .er-31 {
+        height: 219px;
+    }
+    .er-32 {
+        height: 142px;
+    }
+    .er-33 {
+        height: 142px;
+    }
+    .er-34 {
+        height: 135px;
+    }
+    .er-35 {
+        height: 135px;
+    }
+    .er-36 {
+        height: 136px;
+    }
+    .er-37 {
+        height: 149px;
+    }
+    .er-38 {
+        height: 139px;
+    }
+}
+
+@media (max-width: 1024px) {
+    footer .socal-media-list {
+        padding-left: 25px;
+    }
+}
+
+@media (max-width: 992px) {
+
+    .blog-section .blog-slider .prev-arrow {
+        height: 42px;
+        width: 42px;
+        padding: 9px;
+        left: 38.8%;
+    }
+
+    .blog-section .blog-slider .next-arrow {
+        height: 42px;
+        width: 42px;
+        padding: 9px;
+    }
+
+    .packages-by-interest-section .package-tab {
+        gap: 19px;
+    }
+    .destinations-section .destinations-section-right .packages figure .fig .packages-location span a {
+        font-size: 9px;
+    }
+    .destinations-section .destinations-section-right .packages figure .fig .packages-location h5 a {
+        font-size: 14px;
+        Line-height: 21px;
+    }
+    .tour-packages-section .tour-packages-slider .package-name {
+        padding: 10px 12px 0px 0px;
+    }
+    .packages-by-interest-section .packages-lists{
+        flex-direction: column;
+        gap: 13px;
+    }
+    .packages-by-interest-section .packages-lists .package-tab ul {
+        display: flex;
+        margin: 0;
+        padding-left: 0px;
+    }
+    footer .footer-links .lists-footer{
+        gap: 0px;
+    }
+    footer .list-2 {
+        padding-left: 138px;
+    }
+    footer .socal-media-list {
+        padding-left: 16px;
+        padding-top: 32px;
+    }
+    footer .footer-links .lists-footer {
+        gap: 61px;
+    }
+    .visit-section .weather-section .weather-card p {
+        font-size: 14px;
+        line-height: 21px;
+    }
+    .visit-section .visit-section-peragraph p {
+        font-size: 14px;
+        line-height: 22px;
+    }
+    .er-1 {
+        height: 187px;
+    }
+    .er-2 {
+        height: 200px;
+    }
+    .er-3 {
+        height: 200px;
+    }
+    .er-4 {
+        height: 200px;
+    }
+    .er-5 {
+        height: 200px;
+    }
+    .er-6 {
+        height: 200px;
+    }
+    .er-7 {
+        height: 200px;
+    }
+    .er-8 {
+        height: 200px;
+    }
+    .er-9 {
+        height: 200px;
+    }
+    .er-10 {
+        height: 200px;
+    }
+    .er-11 {
+        height: 200px;
+    }
+    .er-12 {
+    height: 200px;
+    }
+    .er-13 {
+        height: 200px;
+    }
+    .er-14 {
+        height: 200px;
+    }
+    .er-15 {
+        height: 180px;
+    }
+    .er-16 {
+        height: 220px;
+    }
+    .er-17 {
+        height: 220px;
+    }
+    .er-18 {
+        height: 200px;
+    }
+    .er-19 {
+        height: 190px;
+    }
+    .er-20 {
+        height: 190px;
+    }
+    .er-21 {
+        height: 180px;
+    }
+    .er-22 {
+        height: 187px;
+    }
+    .er-23 {
+        height: 187px;
+    }
+    .er-24 {
+        height: 206px;
+    }
+    .er-25 {
+        height: 216px;
+    }
+    .er-26 {
+        height: 217px;
+    }
+    .er-27 {
+        height: 226px;
+    }
+    .er-28 {
+        height: 207px;
+    }
+    .er-29 {
+        height: 189px;
+    }
+    .er-30 {
+        height: 210px;
+    }
+    .er-31 {
+        height: 190px;
+    }
+    .er-32 {
+        height: 196px;
+    }
+    .er-33 {
+        height: 216px;
+    }
+    .er-34 {
+        height: 194px;
+    }
+    .er-37 {
+        height: 188px;
+    }
+    .er-38 {
+        height: 200px;
+    }    
+
+}
+
+@media (max-width: 991px) {
+
+    .visit-section .weather-section {
+        flex-direction: column;
+        grid-template-columns: auto;
+    }
+
+    .destinations-section .destinations-section-right .packages figure figcaption .packages-location span {
+        font-size: 8px;
+    }
+
+    .destinations-section .destinations-section-right .packages figure figcaption .packages-location h5 {
+        font-size: 17px;
+        Line-height: 28px;
+    }
+
+    .packages-by-interest-section .dham-content-padding .para_text .tab-cards {
+        grid-template-columns: auto auto;
+    }
+    footer .global-pateners {
+        flex-direction: column;
+    }
+    
+footer .visa-img>ul {
+    float: unset;
+    text-align: center;
+}
+}
+
+@media (max-width: 768px) {
+    .banner-sec {
+        height: 398px;
+    }
+
+    .banner-sec .banner-heading {
+        top: 19%;
+    }
+
+    .destinations-section .destinations-section-left {
+        padding: 13px;
+    }
+
+    .reach-section .loaction-content {
+        flex-direction: column;
+        gap: 9px;
+    }
+
+    .reach-section .loaction-content .place-image figure {
+        text-align: start;
+    }
+
+    .tour-packages-section .tour-packages-slider .prev-arrow {
+        left: 34%;
+    }
+
+    .other-packages-section .other-packages-slider .prev-arrow {
+        left: 34%;
+    }
+
+    .destinations-section .destinations-section-right .packages figure figcaption .packages-location span {
+        font-size: 10px;
+    }
+
+    .destinations-section .destinations-section-right .packages figure figcaption .packages-location h5 {
+        font-size: 20px;
+        Line-height: 34px;
+    }
+
+    .blog-section .blog-news {
+        padding: 0px 0px 20px 0px;
+        text-align: center;
+    }
+
+    .blog-section .blog-news h4 {
+        width: 100%;
+    }
+
+    .more-section .heading-3 h6 {
+        width: 85%;
+    }
+
+    .choose-section .experienced-section .experienced-card {
+        padding: 46px 18px 35px 18px;
+    }
+
+    .choose-section .experienced-section {
+        gap: 15px;
+    }
+
+    .packages-from-cities .packages-from-cities-slider .prev-arrow {
+        left: 37%;
+    }
+
+    .blog-section .row .blog-slider .blog-div {
+        padding-right: 19px;
+        padding-left: 19px;
+    }
+
+    .blog-section .blog-slider .next-arrow {
+        left: 49.9%;
+    }
+
+    .packages-by-interest-section .package-tab-2 ul{
+        padding-left: 0;
+    }
+
+    .other-packages-section .other-packages-slider .main-package {
+        margin: 0px 13px 0px 13px;
+    }
+
+    .tour-packages-section .tour-packages-slider .main-package {
+        margin: 0px 8px 0px 8px;
+    }
+
+    .packages-from-cities .packages-from-cities-slider .cities-content {
+        margin-right: 9px;
+        margin-left: 9px;
+    }
+
+    .destinations-section .destinations-section-right .destinations-section-packages .packages-list-3 {
+        display: grid;
+        grid-template-columns: auto auto;
+        margin-top: 17px;
+    }
+
+    .destinations-section .destinations-section-right .packages figure img {
+        width: 100%;
+        height: 215px;
+    }
+
+    .more-section .container-custom {
+        width: 515px;
+    }
+    .more-section .heading-3 h6 span {
+        width: 100%;
+        font-size: 26px;
+        line-height: 29px;
+    }
+    .more-section .heading-3 h6:after {
+        margin: 0px 42%;
+    }
+    footer .global-pateners-left ul {
+        display: grid !important;
+        grid-template-columns: auto auto auto; 
+        gap: 31px 31px;
+        width: 85%;
+        margin: auto;
+        padding-bottom: 12px;
+    }
+    footer .visa-img>ul {
+        display: flex;
+        justify-content: space-around;
+        padding-top: 13px;
+        margin: 0;
+    }
+    footer .logo-footer {
+        width: 74%;
+    }
+    footer .list-2 {
+        padding-left: 14px;
+        padding-top: 32px;
+    }
+    .mn-1 {
+        height: 250px;
+    }
+    .er-1 {
+        height: 218px;
+    }
+    .er-2 {
+        height: 240px;
+    }
+    .er-3 {
+        height: 238px;
+    }
+    .er-4 {
+        height: 238px;
+    }
+    .er-5 {
+        height: 219px;
+    }
+    .er-7 {
+        height: 240px;
+    }    
+    .er-8 {
+        height: 220px;
+    }
+    .er-9 {
+        height: 240px;
+    }
+    .er-10 {
+        height: 212px;
+    }
+    .er-11 {
+        height: 220px;
+    }
+    .er-12 {
+        height: 210px;
+    }
+    .er-13 {
+        height: 262px;
+    }
+    .er-14 {
+        height: 240px;
+    }
+    .er-15 {
+        height: 220px;
+    }
+    .er-16 {
+        height: 248px;
+    }
+    .er-17 {
+        height: 240px;
+    }
+    .er-18 {
+        height: 241px;
+    }
+    .er-19 {
+        height: 220px;
+    }
+    .er-20 {
+        height: 210px;
+    }
+    .er-21 {
+        height: 190px;
+    }
+    .er-22 {
+        height: 217px;
+    }
+    .er-23 {
+        height: 226px;
+    }
+    .er-24 {
+        height: 226px;
+    }
+    .er-25 {
+        height: 246px;
+    }
+    .er-26 {
+        height: 246px;
+    }
+    .er-28 {
+        height: 227px;
+    }
+    .er-29 {
+        height: 199px;
+    }
+    .er-30 {
+        height: 239px;
+    }
+    .er-32 {
+        height: 226px;
+    }
+    .er-33 {
+        height: 246px;
+    }
+    .er-34 {
+        height: 232px;
+    }
+    .er-35 {
+        height: 245px;
+    }
+    .er-36 {
+        height: 245px;
+    }
+    .er-37 {
+        height: 228px;
+    }
+    .er-38 {
+        height: 220px;
+    }
+}
+
+@media (max-width: 575px) {
+    .more-section .heading-3 h6 {
+        font-size: 24px;
+        line-height: 23px;
+    }
+
+    .more-section .container-custom {
+        width: 370px;
+    }
+     
+    .more-section .heading-3 h6 {
+        width: 100%;
+    }
+
+    .top-search-section .search-tabs {
+        display: grid;
+    }
+    footer .global-pateners-left ul {
+        grid-template-columns: auto auto;
+        gap: 31px 31px;
+        width: 76%;
+    }
+    .faq-section .faq-section-left .accordion-item .accordion-collapse .accordion-body ul li {
+        font-size: 13px;
+        line-height: 19px;
+    }
+    .choose-section .experienced-section {
+        grid-template-columns: auto;
+    }
+    .headings-2 h2 {
+        line-height: 36px;
+    }.faq-section .row .faq-section-right .right-content h3 {
+        font-size: 27px;
+        font-weight: 700;
+        line-height: 35px;
+    }
+    .headings-3 h2 {
+        font-size: 29px;
+        line-height: 37px;
+    }
+    .packages-by-interest-section .package-tab {
+        display: grid;
+        text-align: center;
+        grid-template-columns: auto auto auto;
+    }
+
+    .packages-by-interest-section .package-tab .nav-link-2 {
+        padding: 0;
+        height: 47px;
+    }
+
+}
+
+@media (max-width: 445px) {
+    .welcome .about-left h4 {
+        font-size: 17px;
+        line-height: 30px;
+    }
+    .banner-sec .baseline nav .breadcrumb li::before {
+        font-size: 8px;
+        margin: 8px 0px 0px 0px;
+        padding-right: 5px;
+    }
+
+    .banner-sec .banner-heading {
+        display: none;
+    }
+
+    .banner-sec .banner-heading p {
+        font-size: 16px;
+    }
+    .heading-main h1 {
+        font-size: 20px;
+        line-height: 25px;
+        padding-bottom: 10px;
+    }
+    .heading-main span {
+        font-weight: 600;
+        line-height: 9px;
+        font-Size: 12px;
+    }
+    .headings span {
+        font-weight: 600;
+        line-height: 9px;
+        font-Size: 12px;
+    }
+    .welcome .about-right .jump-to-list ul li a {
+        font-size: 12px;
+    }
+
+    .welcome {
+        padding: 23px 0px 24px 0px;
+    }
+
+    .banner-sec {
+        height: 153px;
+    }
+
+    .banner-sec .banner-heading span {
+        font-size: 32px;
+    }
+
+    .banner-sec .banner-heading {
+        top: 17%;
+    }
+
+    .banner-sec .baseline nav .breadcrumb li a {
+        font-size: 12px;
+    }
+
+    .banner-sec .baseline nav .breadcrumb {
+        padding: 0px 0px 1px 0px;
+    }
+    .welcome .about-right .jump-to-list ul {
+        padding-left: 0px;
+    }
+    .welcome .about-right {
+        height: auto;
+    }
+    .welcome .about-right .jump-to-list ul li span {
+        line-height: 28px;
+    }
+    .welcome .about-right p {
+        line-height: 25px;
+        font-size: 11px;
+    }
+
+    .tour-packages-section .tour-packages-slider .main-package {
+        margin: 0px 8px 0px 8px;
+    }
+
+    .other-packages-section .other-packages-slider .main-package {
+        margin: 0px 5px 0px 5px;
+    }
+
+    .tour-packages-section .tour-packages-slider .packages .slides-content {
+        padding: 104px 12px 12px 12px;
+    }
+    .tour-packages-section .tour-packages-slider .package-name h3 {
+        line-height: 16px;
+        margin: 0;
+    }
+
+    .tour-packages-section .tour-packages-slider .package-name h3 a {
+        font-size: 13px;
+        line-height: 16px;
+    }
+
+    .tour-packages-section .tour-packages-slider .package-name {
+        padding: 10px 0px 0px 0px;
+    }
+
+    .tour-packages-section .tour-packages-slider .package-name p {
+        font-size: 12px;
+        line-height: 17px;
+        padding: 7px 0px 0px 0px;
+    }
+
+    .tour-packages-section .tour-packages-slider .package-name span a {
+        font-size: 11px;
+        padding: 7px 23px;
+    }
+
+    .tour-packages-section .tour-packages-slider .packages .slides-content span {
+        font-size: 11px;
+    }
+
+    .tour-packages-section .tour-packages-slider .packages .slides-content a i {
+        font-size: 25px;
+    }
+
+    .headings h2 {
+        font-size: 20px;
+        line-height: 25px;
+        padding-bottom: 10px;
+    }
+
+    .destinations-section .destinations-section-right .packages figure figcaption .packages-location h5 {
+        font-size: 16px;
+        Line-height: 30px;
+    }
+
+    .choose-section .experienced-section {
+        grid-template-columns: auto;
+    }
+
+    .more-section .heading-3 h6:after {
+        margin: 0px 39%;
+    }
+
+    .more-section .heading-3 h6 {
+        font-size: 19px;
+        line-height: 22px;
+
+    }
+
+    .reach-section .guide-sections .gudie-information p {
+        font-size: 14px;
+        line-height: 23px;
+        padding-bottom: 11px;
+    }
+
+    .reach-section .guide-sections .gudie-information h5 {
+        font-size: 16px;
+        padding-bottom: 6px;
+        line-height: 19px;
+    }
+
+    .reach-section .guide-sections {
+        gap: 20px;
+    }
+    .reach-section .loaction-content {
+        gap: 15px;
+    }
+
+    .top-search-section .search-tabs a {
+        font-size: 13px;
+        padding: 7px 16px 8px 16px;
+        margin-bottom: 12px;
+        margin-right: 0px;
+    }
+
+    .blog-section .blog-slider .prev-arrow {
+        left: 34.8%;
+        bottom: -55px;
+    }
+
+    .blog-section .blog-slider .next-arrow {
+        bottom: -55px;
+    }
+
+    .review-section .review-content .cr-1 {
+        top: -5%;
+        left: 38%;
+    }
+
+    .review-section {
+        padding: 57px 18px 36px 18px;
+    }
+
+    .review-section .review-content small.cr-2 {
+        width: 26% !important;
+    }
+
+    .modal-review-body {
+        padding: 0 12px 21px 12px !important;
+    }
+
+    .packages-from-cities .packages-from-cities-slider .cities-content {
+        margin-right: 9px;
+        margin-left: 9px;
+    }
+
+    .packages-from-cities .packages-from-cities-slider .prev-arrow {
+        left: 33%;
+        bottom: -84px;
+        height: 47px;
+        width: 47px;
+        padding: 11px;
+    }
+
+    .other-packages-section .other-packages-slider .prev-arrow {
+        left: 30%;
+        bottom: -84px;
+        height: 47px;
+        width: 47px;
+        padding: 11px;
+    }
+
+    .tour-packages-section .tour-packages-slider .prev-arrow {
+        left: 30%;
+        bottom: -71px;
+        height: 47px;
+        width: 47px;
+        padding: 11px;
+    }
+
+    .tour-packages-section .tour-packages-slider .next-arrow {
+        bottom: -71px;
+        height: 47px;
+        width: 47px;
+        padding: 11px;
+    }
+
+    .other-packages-section .other-packages-slider .next-arrow,
+    .packages-from-cities .packages-from-cities-slider .next-arrow {
+        bottom: -84px;
+        height: 47px;
+        width: 47px;
+        padding: 11px;
+    }
+
+    .faq-section .faq-section-left .accordion-item .accordion-collapse .accordion-body {
+        padding: 0px 29px 20px 29px;
+    }
+
+    .faq-section .faq-section-left .accordion-item .accordion-collapse .accordion-body p {
+        font-size: 13px;
+    }
+
+    .faq-section {
+        padding: 5px 0px 40px 0px;
+    }
+
+    .more-section {
+        padding-top: 28px;
+        padding-bottom: 58px;
+    }
+
+    .faq-section .row .faq-section-left .accordion-button {
+        font-size: 13px;
+        line-height: 21px;
+    }
+
+    .headings-2 h2 {
+        font-size: 23px;
+        line-height: 38px;
+    }
+
+    .faq-section .row .faq-section-right .right-content h3 {
+        font-size: 22px;
+        line-height: 34px;
+    }
+
+    .blog-section .blog-news h4 {
+        font-size: 40px;
+    }
+
+    .blog-section .blog-news p {
+        margin: 0px 22px;
+    }
+
+    .more-section .container-custom {
+        width: 88%;
+    }
+
+    .packages-by-interest-section .package-tab {
+        display: grid;
+        grid-template-columns: auto auto;
+        gap: 9px 17px;
+        margin: auto 30px;
+        border-bottom: none;
+    }   
+    .packages-by-interest-section .package-tab-2 ul {
+        display: grid;
+        grid-template-columns: auto auto;
+        margin: auto;
+        gap: 9px 26px;
+    }
+    .packages-by-interest-section .packages-lists {
+        gap: 9px;
+        border-bottom: none;
+        margin-bottom: 10px;
+    }
+
+    .packages-by-interest-section .nav-pills .nav-link {
+        text-align: center;
+    }
+
+    .destinations-section .destinations-section-right .packages figure img {
+        width: 100%;
+        height: 146px;
+    }
+
+    .destinations-section .destinations-section-right .destinations-section-packages .packages-list-1 {
+        padding-right: 5px;
+    }
+
+    .destinations-section .destinations-section-right .destinations-section-packages .packages-list-2 {
+        padding-left: 5px;
+    }
+
+    .destinations-section .destinations-section-right .destinations-section-packages .packages-list-3 {
+        gap: 17px 10px;
+    }
+    .other-packages-section {
+        padding-bottom: 130px;
+    }
+    .other-packages-section .other-packages-slider .packages .slides-content span {
+        font-size: 11px;
+    }
+
+    .other-packages-section .other-packages-slider .packages .slides-content a i {
+        font-size: 25px;
+    }
+
+    .other-packages-section .other-packages-slider .packages .slides-content {
+        padding: 29px 12px 12px 12px;
+    }
+
+    .other-packages-section .other-packages-slider .package-name h3{
+        line-height:13px ;
+        margin: 0;
+    }
+    .headings h2 br{
+        display: none;
+    }
+    .other-packages-section .other-packages-slider .package-name h3 a {
+        font-size: 13px;
+        line-height: 16px
+    }
+
+    .other-packages-section .other-packages-slider .package-name p {
+        font-size: 12px;
+        line-height: 17px;
+        padding: 7px 0px 0px 0px;
+    }
+
+    .other-packages-section .other-packages-slider .package-name .quary a {
+        font-size: 11px;
+        padding: 7px 23px;
+    }
+
+    .other-packages-section .other-packages-slider .package-name {
+        padding: 10px 0px 0px 0px;
+    }
+
+    .packages-from-cities .packages-from-cities-slider .cities-content a figure {
+        margin: 0;
+        margin-bottom: 11px;
+    }
+
+    .packages-from-cities .packages-from-cities-slider .cities-content a h5 {
+        font-size: 13px;
+        line-height: 21px;
+    }
+
+    .tour-packages-section {
+        padding-bottom: 100px;
+    }
+
+    .welcome .about-left p {
+        font-size: 13px;
+        line-height: 19px;
+        padding-bottom: 0;
+    }
+
+    .packages-by-interest-section .dham-content-padding .packages .slides-content {
+        padding: 126px 12px 12px 12px;
+    }
+
+    .packages-by-interest-section .dham-content-padding .packages .slides-content span {
+        font-size: 11px;
+    }
+
+    .packages-by-interest-section .dham-content-padding .packages .slides-content a i {
+        font-size: 25px;
+    }
+
+    .packages-by-interest-section .dham-content-padding .package-name h3 {
+        font-size: 13px;
+        line-height: 16px;
+    }
+
+    .packages-by-interest-section .dham-content-padding .package-name p {
+        font-size: 12px;
+        line-height: 17px;
+        padding: 7px 0px 0px 0px;
+    }
+
+    .packages-by-interest-section .dham-content-padding .package-name .quary a {
+        font-size: 11px;
+        padding: 7px 23px;
+    }
+
+    .packages-by-interest-section .dham-content-padding .package-name {
+        padding: 10px 0px 0px 0px;
+    }
+
+    .packages-by-interest-section .dham-content-padding .para_text .tab-cards {
+        gap: 18px 0px;
+    }
+
+    .packages-by-interest-section {
+        padding: 26px 0px 61px 0px;
+    }
+
+    .packages-from-cities {
+        padding-bottom: 95px;
+    }
+
+    .other-packages-section .other-packages-slider .packages img {
+       width: 100%;
+    }
+
+    .review-section .review-content {
+        width: 80%;
+    }
+
+    .modal-review .modal-dialog-centered .modal-content .modal-review-body .modal-customer-review {
+        margin-top: 0;
+    }
+
+    .modal-review .modal-dialog-centered .modal-content .modal-review-body .modal-customer-review .modal-review-section {
+        padding: 0px 2px 0px;
+    }
+
+    .visit-section .weather-section .weather-card {
+        padding: 30px 35px 30px 25px;
+    }
+
+    .visit-section .weather-section .weather-card img {
+        padding-bottom: 12px;
+    }
+
+    .top-search-section {
+        padding: 43px 0px 56px 0px;
+    }
+
+    .blog-section {
+        padding: 53px 0px 102px 0px;
+    }
+
+    .choose-section .experienced-section .experienced-card .card-icon {
+        padding-bottom: 24px;
+    }
+
+    .choose-section .experienced-section .experienced-card {
+        padding: 30px 22px 30px 22px;
+    }
+
+    .faq-section .row .faq-section-right .right-content p {
+        font-size: 13px;
+        line-height: 21px;
+    }
+
+    .more-section .more-section-content h6 {
+        line-height: 20px;
+        color: #333333;
+        margin: 0;
+        margin-bottom: 4px;
+    }
+
+    .headings-3 h2 {
+        font-size: 22px;
+        line-height: 26px;
+        margin-bottom: 25px;
+        text-align: center;
+        width: 82%;
+        margin: auto;
+        padding-bottom: 23px;
+    }
+
+    .travel-information {
+        padding: 60px 0px 0px 0px;
+    }
+
+    .travel-information .travel-links {
+        text-align: center;
+    }
+
+    .travel-information .travel-links .link-list {
+        padding-bottom: 12px;
+    }
+    footer .list-2{
+        padding-left: 12px;
+    }
+    footer .socal-media-list{
+        padding-left: 12px;
+    }
+    footer .global-pateners-left {
+        width: 100%;
+        float: left;
+        padding-left: 0px;
+    }
+    footer .global-pateners-left ul {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 24px 9px;
+        padding-left: 0px;
+    }
+    footer .global-pateners {
+        padding: 41px 0 15px;
+        flex-direction: column;
+    }
+    footer .visa-img {
+        width: 100%;
+        display: flex;
+        padding: 0px;
+        justify-content: center;
+    }
+    footer .visa-img ul {
+        text-align: right;
+        width: auto;
+        padding-left: 0px;
+    }
+    footer .visa-img ul li {
+        padding: 14px 4px;
+    }
+    footer {
+        background: #394048;
+        padding: 40px 0 50px 0;
+    }
+    .addres-footer{
+        width: 100%;
+    }
+    footer .logo-footer {
+        width: 100%;
+        float: left;
+        text-align: center;
+        padding-right: 0px;
+    }
+    footer .copy-right-section{
+        flex-direction: column;
+    }
+    .reach-section .loaction-content .place-image{
+        padding-top: 0px;
+    }
+    .reach-section .guide-sections .gudie-information h6 {
+        font-size: 15px;
+        line-height: 22px;
+        padding-top: 12px;
+    }
+    .reach-section {
+        padding-bottom: 36px;
+    }
+
+    .list-items li {
+        font-size: 15px;
+        line-height: 22px;
+    }
+    .welcome .about-left .table tbody .cl-1 .col-h {
+        font-size: 8px;
+        line-height: 10px;
+    }
+    .welcome .about-left .table tbody .cl-1 td {
+        font-size: 8px;
+        line-height: 13px;
+        padding: 4px;
+    }
+    .welcome .about-left .note-line{
+        font-size: 10px;
+        line-height: 13px;
+        padding-bottom: 6px;
+    }
+    .welcome .about-left button {
+        font-size: 11px;
+        padding: 11px 8px 11px 8px;
+    }
+    .packages-by-interest-section .dham-content-padding .para_text .tab-cards .main-package {
+        padding-bottom: 15px;
+    }
+    .er-1 {
+        height: 170px;
+    }
+    .er-2 {
+        height: 161px;
+    }
+    .er-3 {
+        height: 160px;
+    }
+    .er-4 {
+        height: 185px;
+    }
+    .er-5 {
+        height: 160px;
+    }
+    .er-6 {
+        height: 161px;
+    }
+    .er-7 {
+        height: 198px;
+    }
+    .er-8 {
+        height: 160px;
+    }
+    .er-9 {
+        height: 200px;
+    }
+    .er-10 {
+        height: 182px;
+    }
+    .er-11 {
+        height: 167px;
+    }
+    .er-12 {
+        height: 190px;
+    }
+    .er-13 {
+        height: 200px;
+    }
+    .er-14 {
+        height: 180px;
+    }
+    .er-15 {
+        height: 180px;
+    }
+    .er-16 {
+        height: 197px;
+    }
+    .er-17 {
+        height: 162px;
+    }
+    .er-18 {
+        height: 182px;
+    }
+    .er-19 {
+        height: 199px;
+    }
+    .er-20 {
+        height: 166px;
+    }
+    .er-21 {
+        height: 160px;
+    }
+    .er-29 {
+        height: 148px;
+    }
+    .er-30 {
+        height: 199px;
+    }
+    .er-31 {
+        height: 170px;
+    }
+    .er-32 {
+        height: 87px;
+    }
+    .er-33 {
+        height: 86px;
+    }
+    .er-34 {
+        height: 84px;
+    }
+    .er-35 {
+        height: 87px;
+    }
+    .er-36 {
+        height: 95px;
+    }
+    .er-37 {
+        height: 88px;
+    }
+    .er-38 {
+        height: 84px;
+    }
+    .packages-by-interest-section .package-tab .nav-link-2 {
+        padding: 0;
+        height: 39px;
+    }
+    .width{
+        width: 70px;
+    }
+    .welcome .about-left .more-content h3{
+        font-size: 15px;
+        line-height: 20px;
+    font-weight: 600;
+    color: #38404F;
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+    padding-top: 15px;
+    padding-bottom: 10px;
+}
+    .welcome .about-left .more-content h4{
+        line-height: 18px;
+        font-size: 16px;
+    }
+    .review-section span {
+        font-size: 20px;
+        font-weight: 700;
+        line-height: 24px;
+        color: #525252;
+        display: inline-block;
+        padding-top: 15px;
+    }
+
+    
+}
+@media (max-width: 400px){
+    .mn-2 {
+        height: 254px;
+    }
+    .mn-3 {
+        height: 223px;
+    }
+    .mn-4 {
+        height: 93px;
+    }
+    .er-1 {
+        height: 180px;
+    }
+    .er-2 {
+        height: 182px;
+    }
+    .er-3 {
+        height: 180px;
+    }
+    .er-4 {
+        height: 205px;
+    }   
+    .er-5 {
+        height: 194px;
+    }
+    .er-6 {
+        height: 191px;
+    }
+    .er-7 {
+        height: 227px;
+    }    
+    .er-8 {
+        height: 214px;
+    }
+    .er-9 {
+        height: 230px;
+    }
+    .er-10 {
+        height: 216px;
+    }
+    .er-11 {
+        height: 191px;
+    }
+    .er-12 {
+        height: 210px;
+    }
+    .er-13 {
+        height: 228px;
+    }
+    .er-14 {
+        height: 210px;
+    }
+    .er-15 {
+        height: 210px;
+    }
+    .er-16 {
+        height: 231px;
+    }
+    .er-17 {
+        height: 215px;
+    }
+    .er-18 {
+        height: 215px;
+    }
+    .er-19 {
+        height: 227px;
+    }
+    .er-20 {
+        height: 198px;
+    }
+    .er-29 {
+        height: 196px;
+    }
+    .er-30 {
+        height: 230px;
+    }
+    .er-31 {
+        height: 198px;
+    }    
+    .er-32 {
+        height: 92px;
+    }
+    .er-33 {
+        height: 92px;
+    }
+    .er-34 {
+        height: 92px;
+    }
+    .er-35 {
+        height: 86px;
+    }
+    .er-36 {
+        height: 90px;
+    }
+    .er-37 {
+        height: 92px;
+    }
+    .er-38 {
+        height: 86px;
+    }
+    .packages-by-interest-section .package-tab .nav-link-2 {
+        padding: 0;
+        height: 39px;
+    }
+}
+
+
+@media (max-width: 354px) {
+    footer .footer-links .lists-footer {
+        gap: 0px;
+    }    
+}
